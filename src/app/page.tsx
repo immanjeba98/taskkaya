@@ -1,8 +1,8 @@
+import React from 'react'
+import Home from './Home'
 
-export default function Home() {
+export default function page() {
   return (
-    <div>
-      <h1>Learning task</h1>
-    </div>
-  );
+    <Home/>
+  )
 }
